@@ -44,6 +44,7 @@ ai-research-assistant/
 │
 └── static/
     └── style.css
+
 ## Setup
 
 ### 1. Create a virtual environment
