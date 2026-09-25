@@ -6,7 +6,7 @@ An AI-powered research assistant web application built using Python, Flask, HTML
 
 - Ask research questions through a simple web interface
 - Process user questions using a Flask backend
-- Generate AI-powered responses using OpenAI API
+- Generate AI-powered responses using the OpenAI API
 - Demo Mode available when API credits are unavailable
 - Secure API key handling using environment variables
 - Simple and responsive web interface
@@ -44,12 +44,3 @@ ai-research-assistant/
 │
 └── static/
     └── style.css
-## Setup
-
-### 1. Create a virtual environment
-
-Windows:
-
-```bash
-python -m venv venv
-venv\Scripts\activate
